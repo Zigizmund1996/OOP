@@ -55,7 +55,7 @@ class Category:
                     for product_data in products_list:
                         product = Product(**product_data)
                         self.products.append(product)
-                        Category.total_products += 1
+                        #Category.total_products += 1
                         logging.info(f"Added product {product} to category {self.name}")
             except (json.JSONDecodeError, FileNotFoundError) as e:
                 logging.error(f"Error reading products file: {e}")

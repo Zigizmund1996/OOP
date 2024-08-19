@@ -46,3 +46,4 @@ if __name__ == "__main__":
 
     print(Category.total_categories)
     print(Category.total_products)
+    print(Category.total_products)

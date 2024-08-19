@@ -1,6 +1,0 @@
-2024-08-19 22:47:09,193 - INFO - Product created: <product_category.Product object at 0x79165af1ffe0>, Samsung Galaxy S23 Ultra
-2024-08-19 22:47:09,193 - INFO - Product created: <product_category.Product object at 0x79165a534050>, Iphone 15
-2024-08-19 22:47:09,194 - INFO - Product created: <product_category.Product object at 0x79165a5ca3f0>, Xiaomi Redmi Note 11
-2024-08-19 22:47:09,194 - INFO - Category created: <product_category.Category object at 0x79165a5a51c0>, Смартфоны
-2024-08-19 22:47:09,194 - INFO - Product created: <product_category.Product object at 0x79165a548980>, 55" QLED 4K
-2024-08-19 22:47:09,194 - INFO - Category created: <product_category.Category object at 0x79165a47f650>, Телевизоры
